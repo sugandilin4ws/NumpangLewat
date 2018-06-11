@@ -2,14 +2,14 @@
     [
         "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528707584708,
             "changeTime": 1528707584708,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528707584709,
             "changeTime": 1528707584709,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,29 +32,27 @@
     [
         "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1528707584709,
-            "changeTime": 1528707584709,
-            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1528708748585,
+            "changeTime": 1528708748585,
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2"
         }
     ],
     [
         "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528707807763,
             "changeTime": 1528707807763,
             "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +60,14 @@
     [
         "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura\\Demo",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura\\Demo",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528707807785,
             "changeTime": 1528707807785,
             "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -77,14 +75,14 @@
     [
         "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1528707807785,
             "changeTime": 1528707807785,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -92,14 +90,14 @@
     [
         "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 194,
             "modifiedTime": 1528707979829,
             "changeTime": 1528707979829,
             "contentHash": "92ac0e16c34092a07bc4ac00298bbf932ccc8f37",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -107,14 +105,14 @@
     [
         "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 236,
             "modifiedTime": 1528707807763,
             "changeTime": 1528707807763,
             "contentHash": "e1e968b3b1241b0b99f46111ddfbaf9b8727535e",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -122,14 +120,14 @@
     [
         "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura\\Demo\\Demo.css",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura\\Demo\\Demo.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1528707807785,
             "changeTime": 1528707807785,
             "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -137,14 +135,14 @@
     [
         "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura\\Demo\\Demo.design",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura\\Demo\\Demo.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1528707807785,
             "changeTime": 1528707807785,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -152,14 +150,14 @@
     [
         "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1528707807785,
             "changeTime": 1528707807785,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -167,14 +165,14 @@
     [
         "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1528707807780,
             "changeTime": 1528707807780,
             "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -182,14 +180,14 @@
     [
         "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1528707807785,
             "changeTime": 1528707807785,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -197,14 +195,14 @@
     [
         "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1528707807785,
             "changeTime": 1528707807785,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -212,16 +210,159 @@
     [
         "C:\\Users\\Saasten\\Desktop\\Demo1",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528708238114,
             "changeTime": 1528708238114,
             "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\flexipages\\Test.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\flexipages\\Test.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 697,
+            "modifiedTime": 1528708748539,
+            "changeTime": 1528708748539,
+            "contentHash": "a6dfea5e20443e132b03306b687a13943ca306a0"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\tabs\\Test.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\tabs\\Test.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 309,
+            "modifiedTime": 1528708748547,
+            "changeTime": 1528708748547,
+            "contentHash": "f425e0740b82ab0c7f2f0f4de8a5d4b688017306"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\applications\\standard__LightningBolt.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\applications\\standard__LightningBolt.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 327,
+            "modifiedTime": 1528708748559,
+            "changeTime": 1528708748559,
+            "contentHash": "f0c623c67b7e4bc9e639b0e7516af2abfac81846"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4841,
+            "modifiedTime": 1528708748605,
+            "changeTime": 1528708748605,
+            "contentHash": "243f034a8dfdcff0b142438de2eca312949f9f3a"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4503,
+            "modifiedTime": 1528708748605,
+            "changeTime": 1528708748605,
+            "contentHash": "419bfddda72e1202324764406ad338c347657402"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4503,
+            "modifiedTime": 1528708748605,
+            "changeTime": 1528708748605,
+            "contentHash": "419bfddda72e1202324764406ad338c347657402"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17920,
+            "modifiedTime": 1528708748641,
+            "changeTime": 1528708748641,
+            "contentHash": "cb423c307d42dbb539dc76e23b39cbb97e6909e8"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528708748539,
+            "changeTime": 1528708748539,
+            "contentHash": "9cf9cc624356e745f6cd50f86603a67b2d1d75f6"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528708748547,
+            "changeTime": 1528708748547,
+            "contentHash": "fcf311c992d08f408e13f3512589c4d28374e489"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528708748556,
+            "changeTime": 1528708748556,
+            "contentHash": "309257d488a5da0a2fbd6206f9a6963a75f333e5"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Demo1\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528708748633,
+            "changeTime": 1528708748633,
+            "contentHash": "28a941c36edc4d0e24ad208bddbadc4530145796"
         }
     ]
 ]
